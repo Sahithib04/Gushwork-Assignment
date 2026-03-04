@@ -232,5 +232,4 @@ npm run build
 
 
 
-Built with ❤️ using React, TypeScript, and Tailwind CSS
-```
+
